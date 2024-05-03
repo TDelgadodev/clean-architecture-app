@@ -8,10 +8,12 @@
   "dependencies": {
     "@prisma/client": "5.13.0",
     "bcrypt": "^5.1.1",
-    "elysia": "latest"
+    "elysia": "latest",
+    "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
+    "@types/jsonwebtoken": "^9.0.6",
     "bun-types": "latest",
     "prisma": "^5.13.0"
   },
